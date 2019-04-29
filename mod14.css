@@ -1,0 +1,187 @@
+body { 
+background:#FFFEF1;
+margin: 0
+}
+
+main { /* RESUME */
+font-family: merriweather, monospace, sans serif;
+width: 960px;
+margin: 0 auto;
+}
+
+header {text-align: center; 
+        font-size: 50px;}
+
+h1 {margin-top: 10px;}
+
+subheader {color: gray} 
+
+footer {
+background:#E8B7B8; 
+    width: 950px;
+    clear: both;
+    padding: 35px;}
+
+
+nav ul { /* to center the nav menu */
+background:#E8B7B8; 
+text-align:center; 
+margin: auto;
+margin-top: 10px;
+border:none;
+padding:10px;
+}
+
+nav li {
+display:inline;
+padding:45px;
+}
+
+nav li a:link, nav li a:visited {
+font-size:30px;
+color: black;
+text-decoration: none;
+border:1 px solid black;
+}
+
+nav li a:hover {
+border-bottom:3px solid #a02424;
+}
+
+a:link, a:visited {
+color: black;
+text-decoration: none;
+border:1 px solid black;
+}
+
+a:hover {
+border-bottom:3px solid #a02424;
+}
+
+
+/* HOME PAGE */ 
+
+.aboutme { 
+font-size: 30px;
+width: 430px;
+}
+
+.about {
+    background-image: url('about.jpg');
+    width:960px;
+    height: 1900px;
+    margin:0 auto; 
+    background-repeat:no-repeat;}
+
+
+/* RESUME */
+.resume-header  {
+text-align: center;
+padding: 15px;
+}
+
+li { padding: 5px;}
+
+
+.education { 
+padding: 30px;
+width: 400px;
+float: left;
+}
+
+.PDF { 
+float: right;
+width: 400px;
+padding: 27px;
+}
+
+.relevant { 
+float: left;
+width: 400px;
+padding: 30px;
+}
+
+.competencies { 
+float: right;
+width: 400px;
+padding: 30px;
+}
+
+.experience { 
+float: left;
+padding: 30px;
+}
+
+
+
+/* Portfolio */ 
+
+.howto { 
+float: left;
+width: 400px;
+padding: 20px;
+}
+
+.howto img {
+float: left;
+width: 400px;
+}
+
+.bodykeeps { 
+float:right; 
+width: 400px;
+padding: 20px;
+}
+
+.bodykeeps img { 
+float: right;
+width: 400px;
+}
+
+.citygirl { 
+float: left;
+width: 400px;
+padding: 20px;
+}
+
+.citygirl img {
+float: left; 
+width: 400px;
+}
+
+.abox { 
+float: right;
+width: 400px;
+padding: 20px;
+}
+
+.abox img {
+float: right; 
+width: 400px;
+}
+
+.finally { 
+float: left;
+width: 350px;
+padding: 30px;
+}
+
+.finally img {
+float: left; 
+width: 350px;
+}
+
+.beyond { 
+float: right;
+width: 400px;
+padding: 20px;
+}
+
+.beyond img {
+float: right; 
+width: 400px;
+}
+
+.poetrytext {font-size: 17px;
+    padding: 4px;}
+
